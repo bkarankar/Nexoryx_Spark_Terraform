@@ -1,0 +1,8 @@
+aws_region = "ap-south-1"
+key_pair_name = "your-keypair"
+allowed_ssh_cidr = "0.0.0.0/0"
+
+master_instance_type = "t3.large"
+worker_instance_type = "t3.large"
+
+worker_count = 20
