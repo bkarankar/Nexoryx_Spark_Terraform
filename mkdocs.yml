@@ -1,0 +1,5 @@
+
+site_name: Nexoryx_Spark_Terraform
+nav:
+  - Home: README.md
+  - Architecture: docs/architecture.md
